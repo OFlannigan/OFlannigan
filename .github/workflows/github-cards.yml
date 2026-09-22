@@ -23,7 +23,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ env.USERNAME }}&langs_count=6&theme=dark_github
+          options: username=${{ env.USERNAME }}&langs_count=6&theme=transparent
           path: profile/languages.svg
           token: ${{ env.GITHUB_TOKEN }}
 
