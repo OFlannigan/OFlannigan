@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=transparent&height=250&color=gradient&section=header&reversal=false&text=Moin&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&desc=%28greeting+from+northern+germany%29&descSize=20&descAlign=65&descAlignY=65)
+![Header](https://capsule-render.vercel.app/api?type=transparent&height=250&color=gradient&section=header&reversal=false&text=Moin&textBg=false&fontColor=149C07&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&desc=%28greeting+from+northern+germany%29&descSize=20&descAlign=65&descAlignY=65)
 
 ### I'm Nico, welcome to my profile!
 
