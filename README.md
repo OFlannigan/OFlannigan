@@ -25,6 +25,7 @@
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
 </p>
+
 ### Some statistics
 
 ![Languages](./profile/languages.svg)
