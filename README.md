@@ -26,10 +26,6 @@
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
 </p>
 
-### Some statistics
-
-![Languages](./profile/languages.svg)
-
 ---
 <p>Connect with me:</p>
 <a href="https://www.linkedin.com/in/nico-barton/">
